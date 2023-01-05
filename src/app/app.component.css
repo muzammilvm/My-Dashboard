@@ -1,0 +1,11 @@
+mat-drawer-container{
+    height: 100%;
+    width: 100%;
+}
+mat-drawer{
+    background-color: #1e252d;
+    width: 230px;
+}
+mat-drawer-content{
+    background-color:#e6e7e9;
+}
